@@ -1,9 +1,21 @@
 
 void main(){
-    IO.println("池本元希");
+    IO.println("池本元希");　　　セミコロンをつける
 }
 
 mainはエントリーポイント
 エントリーポイント（実行が始まる場所）
 
 C言語やC++、Java、Go、Rust、Dartなど、多くのプログラミング言語において、プログラムが起動したときに最初に呼び出される関数（メソッド）として main という名前が使われます。
+
+
+
+PS C:\Users\pct15\Documents\MyJava> java Test.java
+池本元希
+
+これで実行
+
+PS C:\Users\pct15\Documents\MyJava> javac Test.java
+これでコンパイルしてclassを作る
+
+javacでクラスファイルを作ってjavaコマンドで実行
